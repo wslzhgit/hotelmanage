@@ -1,0 +1,31 @@
+server:
+  port: 8080
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  #数据源配置
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/db3?useUnicode=true&characterEncoding=utf-8
+      username: root
+      password: 19960701
+
+#配置mybatis
+mybatis:
+  #扫描加载到所有的mapper.xml文件
+  mapper-locations: classpath:mapper/*.xml
+  #给实体封装类配置别名：默认就是类名
+  type-aliases-package: com.java.spring.entity
+#配置pagehelper分页插件
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+
+ws:
+  imagesPath: file:E:\img\
+

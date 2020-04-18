@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Class-Path: junit-4.12.jar spring-jdbc-4.3.14.RELEASE.jar snakeyaml-1.
+ 17.jar tomcat-embed-jasper-8.5.27.jar jackson-annotations-2.8.0.jar p
+ agehelper-5.0.1.jar jstl-1.2.jar tomcat-embed-core-8.5.27.jar spring-
+ expression-4.3.14.RELEASE.jar spring-beans-4.3.14.RELEASE.jar validat
+ ion-api-1.1.0.Final.jar okio-1.17.2.jar tomcat-jdbc-8.5.27.jar logbac
+ k-classic-1.1.11.jar objenesis-2.1.jar tomcat-juli-8.5.27.jar spring-
+ web-4.3.14.RELEASE.jar spring-aop-4.3.14.RELEASE.jar okhttp-3.14.4.ja
+ r spring-boot-starter-web-1.5.10.RELEASE.jar gson-2.8.2.jar pagehelpe
+ r-spring-boot-autoconfigure-1.1.1.jar jackson-core-2.8.10.jar spring-
+ boot-autoconfigure-1.5.10.RELEASE.jar accessors-smart-1.1.jar spring-
+ webmvc-4.3.14.RELEASE.jar spring-boot-1.5.10.RELEASE.jar tools.jar ha
+ mcrest-library-1.3.jar spring-boot-test-autoconfigure-1.5.10.RELEASE.
+ jar spring-boot-test-1.5.10.RELEASE.jar spring-boot-devtools-1.5.10.R
+ ELEASE.jar hamcrest-core-1.3.jar jsonassert-1.4.0.jar spring-boot-sta
+ rter-1.5.10.RELEASE.jar druid-1.1.3.jar hibernate-validator-5.3.6.Fin
+ al.jar tomcat-embed-websocket-8.5.27.jar jconsole.jar spring-boot-sta
+ rter-tomcat-1.5.10.RELEASE.jar tomcat-annotations-api-8.5.27.jar drui
+ d-spring-boot-starter-1.1.3.jar spring-test-4.3.14.RELEASE.jar slf4j-
+ api-1.7.25.jar assertj-core-2.6.0.jar tomcat-embed-el-8.5.27.jar mysq
+ l-connector-java-5.1.45.jar jsqlparser-0.9.5.jar mybatis-spring-boot-
+ autoconfigure-1.3.1.jar spring-context-4.3.14.RELEASE.jar jackson-dat
+ abind-2.8.10.jar mockito-core-1.10.19.jar spring-core-4.3.14.RELEASE.
+ jar logback-core-1.1.11.jar spring-boot-starter-test-1.5.10.RELEASE.j
+ ar json-smart-2.2.1.jar mybatis-spring-boot-starter-1.3.1.jar spring-
+ boot-starter-logging-1.5.10.RELEASE.jar qiniu-java-sdk-7.2.28.jar jso
+ n-path-2.2.0.jar spring-tx-4.3.14.RELEASE.jar mybatis-spring-1.3.1.ja
+ r commons-io-2.2.jar log4j-over-slf4j-1.7.25.jar asm-5.0.3.jar pagehe
+ lper-spring-boot-starter-1.1.1.jar mybatis-3.4.5.jar spring-boot-star
+ ter-jdbc-1.5.10.RELEASE.jar ecj-3.12.3.jar alipay-sdk-java-3.0.52.ALL
+ .jar classmate-1.3.4.jar mybatis-generator-core-1.3.2.jar android-jso
+ n-0.0.20131108.vaadin1.jar jcl-over-slf4j-1.7.25.jar jboss-logging-3.
+ 3.1.Final.jar commons-fileupload-1.3.3.jar commons-logging-1.1.1.jar 
+ jul-to-slf4j-1.7.25.jar
+Main-Class: com.java.spring.StartApplication
+
